@@ -57,34 +57,34 @@ locations:
   the pitch.
 -->
 
-
+<p>
 <a href="{{ www.carpentries.org }}">The Carpentries</a> is a community of practice centered around teaching foundational 
   coding and data science skills to researchers worldwide. This Instructor Training 
   event is designed to prepare trainees to certify and participate as Carpentries 
   Instructors. However, much of our curriculum focuses on educational principles that 
   apply across a wide variety of contexts. We also welcome participants who do not plan 
   to certify but simply wish to become a better teacher.
+</p>
 
-
-
+<p>
   Carpentries Instructor Training has the following goals:
 
 <ul>
-  <li> Introduce you to evidence-based teaching practices.
-  <li> Teach you how to create a positive environment for learners at your workshops.
-  <li> Provide opportunities for you to practice and build your teaching skills.
-  <li> Help you become integrated into the Carpentries community.
-  <li> Prepare you to use these teaching skills in teaching Carpentries workshops.
+  <li> Introduce you to evidence-based teaching practices.</li>
+  <li> Teach you how to create a positive environment for learners at your workshops.</li>
+  <li> Provide opportunities for you to practice and build your teaching skills.</li>
+  <li> Help you become integrated into the Carpentries community.</li>
+  <li> Prepare you to use these teaching skills in teaching Carpentries workshops.</li>
 </ul>
   
 Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
 <ul>  
   <li> How to program in R or Python, use Git or SQL, or any of the other topics taught in  <a href="{{ site.dc_site }}">Data Carpentry</a>, 
   <a href="{{ site.lc_site }}">Library Carpentry</a>, or 
-  <a href="{{ site.swc_site }}">Software Carpentry</a> workshops.
-  <li> How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more).
+  <a href="{{ site.swc_site }}">Software Carpentry</a> workshops.</li>
+  <li> How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more).</li>
 </ul>
-
+</p>
 
 <p>
 Instructor Training events are hands-on throughout: short lessons alternate 
