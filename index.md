@@ -68,7 +68,7 @@ locations:
 
 <p>
   Carpentries Instructor Training has the following goals:
-
+</p>
 <ul>
   <li> Introduce you to evidence-based teaching practices.
   <li> Teach you how to create a positive environment for learners at your workshops.
@@ -76,9 +76,6 @@ locations:
   <li> Help you become integrated into the Carpentries community.
   <li> Prepare you to use these teaching skills in teaching Carpentries workshops.
 </ul>
-
-</p>
-<p>
   
 Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
 <ul>  
@@ -88,7 +85,7 @@ Because we have only limited time, some things are beyond the scope of this trai
   <li> How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more).
 </ul>
 
-</p>
+
 <p>
 Instructor Training events are hands-on throughout: short lessons alternate 
 with individual and group practical exercises, including practice teaching sessions. 
