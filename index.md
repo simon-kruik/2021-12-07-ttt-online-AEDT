@@ -76,9 +76,10 @@ locations:
   <li> Help you become integrated into the Carpentries community.
   <li> Prepare you to use these teaching skills in teaching Carpentries workshops.
 </ul>
-</ul>
+
 </p>
 <p>
+  
 Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
 <ul>  
   <li> How to program in R or Python, use Git or SQL, or any of the other topics taught in  <a href="{{ site.dc_site }}">Data Carpentry</a>, 
