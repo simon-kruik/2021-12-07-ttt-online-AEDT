@@ -75,6 +75,7 @@ locations:
   <li> Provide opportunities for you to practice and build your teaching skills.
   <li> Help you become integrated into the Carpentries community.
   <li> Prepare you to use these teaching skills in teaching Carpentries workshops.
+  <li> And some test code REMOVE THIS!!!
 </ul>
 
 Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
