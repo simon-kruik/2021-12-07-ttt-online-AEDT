@@ -70,22 +70,20 @@ locations:
   Carpentries Instructor Training has the following goals:
 
 <ul>
-  
-<li> Introduce you to evidence-based teaching practices.
-<li> Teach you how to create a positive environment for learners at your workshops.
-<li> Provide opportunities for you to practice and build your teaching skills.
-<li> Help you become integrated into the Carpentries community.
-<li> Prepare you to use these teaching skills in teaching Carpentries workshops.
-
-</ul> 
+  <li> Introduce you to evidence-based teaching practices.
+  <li> Teach you how to create a positive environment for learners at your workshops.
+  <li> Provide opportunities for you to practice and build your teaching skills.
+  <li> Help you become integrated into the Carpentries community.
+  <li> Prepare you to use these teaching skills in teaching Carpentries workshops.
+</ul>
 
 Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
 <ul>  
-<li> How to program in R or Python, use Git or SQL, or any of the other topics taught in  <a href="{{ site.dc_site }}">Data Carpentry</a>, 
+  <li> How to program in R or Python, use Git or SQL, or any of the other topics taught in  <a href="{{ site.dc_site }}">Data Carpentry</a>, 
   <a href="{{ site.lc_site }}">Library Carpentry</a>, or 
   <a href="{{ site.swc_site }}">Software Carpentry</a> workshops.
-<li> How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more).
-  </ul>
+  <li> How to create your own lessons from scratch (although you will have a good start on the principles behind that sort of work if you are inspired to learn more).
+</ul>
 
 </p>
 <p>
