@@ -78,7 +78,7 @@ locations:
 </ul>
 
 Because we have only limited time, some things are beyond the scope of this training. We will not be learning:
-
+  
 <ul>
   <li> How to program in R or Python, use Git or SQL, or any of the other topics taught in  <a href="{{ site.dc_site }}">Data Carpentry</a>, 
   <a href="{{ site.lc_site }}">Library Carpentry</a>, or 
